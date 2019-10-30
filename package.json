@@ -1,0 +1,18 @@
+{
+    "name": "@remmokreh/seneca-transport-kafka",
+    "version": "1.0.0",
+    "description": "Seneca-Transport plugin for kafka",
+    "license": "MIT",
+    "repository": "remmokreh/seneca-transport-kafka",
+    "main": "transport-kafka.js",
+    "keywords": [
+        "seneca",
+        "transport",
+        "kafka",
+        "remmokreh"
+    ],
+    "dependencies": {        
+        "kafka-node": "^4.1.3",
+        "lodash": "^4.17.5"
+      }
+}
